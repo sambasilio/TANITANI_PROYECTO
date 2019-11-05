@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+/* *{
+    height: 100%;
+    width: 100%;
+} */
+body{
+    background-image: url('../imagenes/rosas.jpg');
+    background-size: cover;
+}
